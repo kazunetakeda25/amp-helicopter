@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: 4f23e2966588255418b2f8e08d703207
+timeCreated: 1489639917
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemiesBigBoss_0
+    21300002: Enemies-sheet-ipadhd_1
+    21300004: BossCar_2
+    21300006: Boss_3
+    21300008: Boss_4
+    21300010: Belvedere_5
+    21300012: EnemiesBigBoss_6
+    21300014: EnemiesBigBoss_7
+    21300016: Enemies_2_8
+    21300018: Boss_9
+    21300020: Boss_10
+    21300022: EnemiesBigBoss_11
+    21300024: EnemiesBigBoss_12
+    21300026: EnemiesBigBoss_13
+    21300028: Car_14
+    21300030: Enemies_1_15
+    21300032: Enemies_2_16
+    21300034: Enemies-sheet-ipadhd_17
+    21300036: Enemies-sheet-ipadhd_18
+    21300038: Enemies-sheet-ipadhd_19
+    21300040: EnemiesBigBoss_20
+    21300042: EnemiesBigBoss_21
+    21300044: Enemies-sheet-ipadhd_22
+    21300046: Enemies_1_23
+    21300048: Enemies_1_24
+    21300050: Enemies_1_25
+    21300052: BigBossGeneral_26
+    21300054: BigBossGeneral_27
+    21300056: BigBossGeneral_28
+    21300058: BigBossGeneral_29
+    21300060: BigBossGeneral_30
+    21300062: BigBossGeneral_31
+    21300064: BigBossGeneral_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemiesBigBoss_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 653
+        width: 1784
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipadhd_1
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 881
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BossCar_2
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 810
+        width: 709
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_3
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 805
+        width: 494
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5967044, y: 0.52542144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_4
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 809
+        width: 507
+        height: 429
+      alignment: 9
+      pivot: {x: 0.583394, y: 0.5204794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Belvedere_5
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 693
+        width: 354
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemiesBigBoss_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 216
+        width: 887
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemiesBigBoss_7
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 259
+        width: 689
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies_2_8
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 459
+        width: 167
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_9
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 368
+        width: 501
+        height: 429
+      alignment: 9
+      pivot: {x: 0.58877707, y: 0.5243192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boss_10
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 368
+        width: 498
+        height: 431
+      alignment: 9
+      pivot: {x: 0.591517, y: 0.51911026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemiesBigBoss_11
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 408
+        width: 348
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemiesBigBoss_12
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 408
+        width: 348
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemiesBigBoss_13
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 397
+        width: 444
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Car_14
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 27
+        width: 299
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies_1_15
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 79
+        width: 255
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5866005, y: 0.36088663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies_2_16
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 234
+        width: 167
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipadhd_17
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 104
+        width: 310
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipadhd_18
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 104
+        width: 309
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipadhd_19
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 104
+        width: 308
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemiesBigBoss_20
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 8
+        width: 348
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemiesBigBoss_21
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 8
+        width: 348
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies-sheet-ipadhd_22
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 136
+        width: 306
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies_1_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 255
+        height: 168
+      alignment: 9
+      pivot: {x: 0.6391554, y: 0.35289815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies_1_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 40
+        width: 255
+        height: 168
+      alignment: 9
+      pivot: {x: 0.6391554, y: 0.3528982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies_1_25
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 40
+        width: 255
+        height: 168
+      alignment: 9
+      pivot: {x: 0.63737196, y: 0.354252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigBossGeneral_26
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 123
+        width: 201
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5305522, y: 0.4897949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigBossGeneral_27
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 17
+        width: 201
+        height: 89
+      alignment: 9
+      pivot: {x: 0.48967323, y: 0.45668873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigBossGeneral_28
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 178
+        height: 91
+      alignment: 9
+      pivot: {x: 0.46827474, y: 0.45764086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigBossGeneral_29
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 0
+        width: 172
+        height: 91
+      alignment: 9
+      pivot: {x: 0.44467944, y: 0.45127052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigBossGeneral_30
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 0
+        width: 174
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigBossGeneral_31
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 26
+        width: 222
+        height: 96
+      alignment: 9
+      pivot: {x: 0.57346106, y: 0.4938228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigBossGeneral_32
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 27
+        width: 158
+        height: 95
+      alignment: 9
+      pivot: {x: 0.39865845, y: 0.4875155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
