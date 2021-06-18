@@ -1,0 +1,118 @@
+/*
+http://www.cgsoso.com/forum-211-1.html
+
+CG搜搜 Unity3d 每日Unity3d插件免费更新 更有VIP资源！
+
+CGSOSO 主打游戏开发，影视设计等CG资源素材。
+
+插件如若商用，请务必官网购买！
+
+daily assets update for try.
+
+U should buy the asset from home store if u use it in your project!
+*/
+
+// Copyright (C) 2015 Google, Inc.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace GoogleMobileAds.Api
+{
+    public class AdRequest
+    {
+        public const string Version = "3.1.3";
+        public const string TestDeviceSimulator = "SIMULATOR";
+
+        public class Builder
+        {
+            internal List<string> TestDevices { get; private set; }
+            internal HashSet<string> Keywords { get; private set; }
+            internal DateTime? Birthday { get; private set; }
+            internal Gender? Gender { get; private set; }
+            internal bool? ChildDirectedTreatmentTag { get; private set; }
+            internal Dictionary<string, string> Extras { get; private set; }
+
+            public Builder()
+            {
+                this.TestDevices = new List<string>();
+                this.Keywords = new HashSet<string>();
+                this.Birthday = null;
+                this.Gender = null;
+                this.ChildDirectedTreatmentTag = null;
+                this.Extras = new Dictionary<string, string>();
+            }
+
+            public Builder AddKeyword(string keyword)
+            {
+                this.Keywords.Add(keyword);
+                return this;
+            }
+
+            public Builder AddTestDevice(string deviceId)
+            {
+                this.TestDevices.Add(deviceId);
+                return this;
+            }
+
+            public AdRequest Build()
+            {
+                return new AdRequest(this);
+            }
+
+            public Builder SetBirthday(DateTime birthday)
+            {
+                this.Birthday = birthday;
+                return this;
+            }
+
+            public Builder SetGender(Gender gender)
+            {
+                this.Gender = gender;
+                return this;
+            }
+
+            public Builder TagForChildDirectedTreatment(bool tagForChildDirectedTreatment)
+            {
+                this.ChildDirectedTreatmentTag = tagForChildDirectedTreatment;
+                return this;
+            }
+
+            public Builder AddExtra(string key, string value)
+            {
+                this.Extras.Add(key, value);
+                return this;
+            }
+        }
+
+        public List<string> TestDevices  { get; private set; }
+        public HashSet<string> Keywords  { get; private set; }
+        public DateTime? Birthday  { get; private set; }
+        public Gender? Gender  { get; private set; }
+        public bool? TagForChildDirectedTreatment { get; private set; }
+        public Dictionary<string, string> Extras  { get; private set; }
+
+        private AdRequest(Builder builder)
+        {
+            this.TestDevices = new List<string>(builder.TestDevices);
+            this.Keywords = new HashSet<string>(builder.Keywords);
+            this.Birthday = builder.Birthday;
+            this.Gender = builder.Gender;
+            this.TagForChildDirectedTreatment = builder.ChildDirectedTreatmentTag;
+            this.Extras = new Dictionary<string, string>(builder.Extras);
+        }
+    }
+}
