@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: e3d3b5b12105b324391a4521fe83408e
+timeCreated: 1489981772
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HP_0
+    21300002: HP_1
+    21300004: ScreenGame-sheet-ipadhd_2
+    21300006: ScreenGame-sheet-ipadhd_3
+    21300008: effect_coin_4
+    21300010: ScreenGame-sheet-ipadhd_5
+    21300012: Effect_6
+    21300014: Bullet_7
+    21300016: HP_8
+    21300018: ScreenGame-sheet-ipadhd_9
+    21300020: ScreenGame-sheet-ipadhd_10
+    21300022: ScreenGame-sheet-ipadhd_11
+    21300024: ScreenGame-sheet-ipadhd_12
+    21300026: Rescure_13
+    21300028: Drones_14
+    21300030: Rescue_15
+    21300032: ScreenGame-sheet-ipadhd_16
+    21300034: Drones_17
+    21300036: Mini Bullet_18
+    21300038: Bullet_19
+    21300040: ScreenGame-sheet-ipadhd_20
+    21300042: Mini Bullet_21
+    21300044: ScreenGame-sheet-ipadhd_22
+    21300046: ScreenGame-sheet-ipadhd_23
+    21300048: ScreenGame-sheet-ipadhd_24
+    21300050: ScreenGame-sheet-ipadhd_25
+    21300052: ScreenGame-sheet-ipadhd_26
+    21300054: ScreenGame_27
+    21300056: Rescued_28
+    21300058: ScreenGame-sheet-ipadhd_29
+    21300060: ScreenGame-sheet-ipadhd_30
+    21300062: ScreenGame-sheet-ipadhd_31
+    21300064: ScreenGame-sheet-ipadhd_32
+    21300066: Effect_33
+    21300068: ScreenGame-sheet-ipadhd_34
+    21300070: ScreenGame-sheet-ipadhd_35
+    21300072: ScreenGame-sheet-ipadhd_36
+    21300074: ScreenGame-sheet-ipadhd_37
+    21300076: effect_coin_38
+    21300078: Parachutist_39
+    21300080: ScreenGame-sheet-ipadhd_40
+    21300082: ScreenGame-sheet-ipadhd_41
+    21300084: ScreenGame-sheet-ipadhd_42
+    21300086: Drones_43
+    21300088: ScreenGame-sheet-ipadhd_44
+    21300090: Mini Bullet_45
+    21300092: Mini Bullet_46
+    21300094: Drones_47
+    21300096: ScreenGame-sheet-ipadhd_48
+    21300098: ScreenGame-sheet-ipadhd_49
+    21300100: ScreenGame-sheet-ipadhd_50
+    21300102: ScreenGame-sheet-ipadhd_51
+    21300104: Coin_52
+    21300106: Mini Bullet_53
+    21300108: ScreenGame-sheet-ipadhd_54
+    21300110: Bullet_55
+    21300112: Bullet_56
+    21300114: Bullet_57
+    21300116: Pause_58
+    21300118: ScreenGame-sheet-ipadhd_59
+    21300120: ScreenGame-sheet-ipadhd_60
+    21300122: ScreenGame-sheet-ipadhd_61
+    21300124: ScreenGame-sheet-ipadhd_62
+    21300126: ScreenGame-sheet-ipadhd_63
+    21300128: Bullet_64
+    21300130: ScreenGame-sheet-ipadhd_65
+    21300132: Bullet_66
+    21300134: ScreenGame-sheet-ipadhd_67
+    21300136: ScreenGame-sheet-ipadhd_68
+    21300138: Bullet_69
+    21300140: Effect_70
+    21300142: ScreenGame-sheet-ipadhd_71
+    21300144: ScreenGame-sheet-ipadhd_72
+    21300146: Bullet_73
+    21300148: Bullet_74
+    21300150: Coin_75
+    21300152: HP_Empty_76
+    21300154: Mini Bullet_77
+    21300156: ScreenGame-sheet-ipadhd_78
+    21300158: Pause_79
+    21300160: ScreenGame-sheet-ipadhd_80
+    21300162: HP_81
+    21300164: Mini Bullet_82
+    21300166: Bullet_83
+    21300168: ScreenGame-sheet-ipadhd_84
+    21300170: Rocket_85
+    21300172: ScreenGame-sheet-ipadhd_86
+    21300174: Bullet_87
+    21300176: Bullet_88
+    21300178: Coin_89
+    21300180: Coin_90
+    21300182: ScreenGame_91
+    21300184: Mini Bullet_92
+    21300186: ScreenGame-sheet-ipadhd_93
+    21300188: ScreenGame-sheet-ipadhd_94
+    21300190: Coin_95
+    21300192: Mini Bullet_96
+    21300194: Mini Bullet_97
+    21300196: Coin_98
+    21300198: ScreenGame-sheet-ipadhd_99
+    21300200: Mini Bullet_100
+    21300202: Mini Bullet_101
+    21300204: effect_coin_6
+    21300206: Parachutist _13
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HP_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1961
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HP_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1972
+        width: 640
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1900
+        width: 640
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: effect_coin_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1878
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1844
+        width: 640
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_7
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1724
+        width: 68
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HP_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 640
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 300
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1572
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Parachutist _13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1599
+        width: 119
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Drones_14
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1628
+        width: 87
+        height: 84
+      alignment: 9
+      pivot: {x: 0.48255378, y: 0.49147543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rescue_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1485
+        width: 207
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Drones_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1500
+        width: 87
+        height: 84
+      alignment: 9
+      pivot: {x: 0.47152042, y: 0.49286616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1532
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_19
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1476
+        width: 68
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 212
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1482
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1372
+        width: 452
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1385
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1292
+        width: 452
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1296
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1233
+        width: 292
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rescued_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1192
+        width: 212
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1048
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_30
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1048
+        width: 156
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1044
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_32
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1103
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_33
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1048
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 844
+        width: 172
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 892
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 900
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 880
+        width: 140
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: effect_coin_38
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 936
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Parachutist_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 707
+        width: 121
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 708
+        width: 107
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 752
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_42
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 796
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Drones_43
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 844
+        width: 87
+        height: 84
+      alignment: 9
+      pivot: {x: 0.4847749, y: 0.4898202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_45
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 747
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_46
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 747
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Drones_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 748
+        width: 87
+        height: 84
+      alignment: 9
+      pivot: {x: 0.43120146, y: 0.4914013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_48
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 524
+        width: 107
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 524
+        width: 107
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_50
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 652
+        width: 156
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_51
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 653
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coin_52
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 684
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_53
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 649
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 500
+        width: 72
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_56
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 532
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_57
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 556
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pause_58
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 567
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 340
+        width: 107
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 341
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 408
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 460
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_64
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 504
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 376
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_67
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 372
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_68
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 440
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_69
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 316
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_70
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 373
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 156
+        width: 107
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_72
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 156
+        width: 107
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_73
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 256
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_74
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 300
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coin_75
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 308
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HP_Empty_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 269
+        width: 175
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_77
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 271
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pause_79
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 159
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HP_81
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 237
+        width: 175
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 220
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_83
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 164
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_84
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 164
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rocket_85
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 72
+        width: 161
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame-sheet-ipadhd_86
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 80
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_87
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 68
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet_88
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coin_89
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 100
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coin_90
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 100
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScreenGame_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 313
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_92
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 15
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coin_95
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 28
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_96
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 30
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_97
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 38
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coin_98
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 36
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_100
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Bullet_101
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_6
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1796
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: effect_coin_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
